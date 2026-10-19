@@ -43,6 +43,13 @@ To press a button longer, use the + character to add multiple of the same comman
 
 `!emucontrol LEFT+LEFT+LEFT+A`
 
+You could also simplify this by using a * character followed by a number to indicate to repeat (or multiply) that command that number of times.  Here is a repeat of the previous command using this multiplier command:
+
+`!emucontrol LEFT*3+A`
+
 To press send one chain of inputs followed by a seperate chain of inputs, add a space between the commands.  For example, this will send a LEFT and A, followed by a UP and B, followed by a START:
 
 `!emucontrol LEFT+A UP+B START`
+
+Here's some extra help for specific games:
+* [SNES Sim-City](snes_simcity.md)
