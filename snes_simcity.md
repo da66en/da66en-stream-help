@@ -2,10 +2,10 @@
 
 Chill and relaxing version of this game.  Here's some tips and pointers for controlling and playing this game using da66en's stream emulator controls:
 
-* The 'cheat' command sent to !emucontrol will give you $999999
+* The 'cheat' command sent to !emu will give you $999999
 * The B button is the main button for accepting dialogs and performing actions.
 * The X button toggles the GUI on city builder mode.
-* The Y (or A) button allows you to scroll the screen.  You will have to hold this button down while moving.  For example: `!emucontrol Y*20+LEFT*20`
+* The Y (or A) button allows you to scroll the screen.  You will have to hold this button down while moving.  For example: `!emu Y^20,L^20`
 * SELECT button toggles cursor between left GUI and build area.
 * START button toggles cursor between top GUI and build area.
 * The running-man icon on the top GUI controls game speed
